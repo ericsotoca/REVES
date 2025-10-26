@@ -1,0 +1,7 @@
+{
+  "name": "DreamWell AI",
+  "description": "Un journal de rêves multimodal qui transcrit vos rêves en français, génère de l'art surréaliste à partir de ceux-ci, et fournit des interprétations psychologiques pour une exploration plus profonde via un chat.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
